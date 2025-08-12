@@ -1,0 +1,48 @@
+{
+  "dataset_revision": "011e51e5fb01f0c820824734edb7a539ab8e6650",
+  "task_name": "Caltech101",
+  "mteb_version": "1.38.34",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.974063,
+        "f1": 0.958336,
+        "f1_weighted": 0.97406,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.974359,
+            "f1": 0.958038,
+            "f1_weighted": 0.97424
+          },
+          {
+            "accuracy": 0.972551,
+            "f1": 0.954148,
+            "f1_weighted": 0.972106
+          },
+          {
+            "accuracy": 0.974852,
+            "f1": 0.961544,
+            "f1_weighted": 0.974909
+          },
+          {
+            "accuracy": 0.975345,
+            "f1": 0.956413,
+            "f1_weighted": 0.975663
+          },
+          {
+            "accuracy": 0.973208,
+            "f1": 0.961535,
+            "f1_weighted": 0.973381
+          }
+        ],
+        "main_score": 0.974063,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 196.5941081047058,
+  "kg_co2_emissions": null
+}

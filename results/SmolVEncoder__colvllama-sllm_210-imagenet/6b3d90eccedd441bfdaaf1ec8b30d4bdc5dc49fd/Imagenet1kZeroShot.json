@@ -1,0 +1,19 @@
+{
+  "dataset_revision": "b24c7a5a3ef12df09089055d1795e2ce7c7e7397",
+  "task_name": "Imagenet1kZeroShot",
+  "mteb_version": "1.38.13",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.001,
+        "main_score": 0.001,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 4587.720365524292,
+  "kg_co2_emissions": null
+}

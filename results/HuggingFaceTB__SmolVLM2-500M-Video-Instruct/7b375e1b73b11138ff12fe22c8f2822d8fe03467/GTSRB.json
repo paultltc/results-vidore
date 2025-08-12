@@ -1,0 +1,48 @@
+{
+  "dataset_revision": "1c13eff0803d2b02c9dc8dfe85e67770b3f0f3c5",
+  "task_name": "GTSRB",
+  "mteb_version": "1.38.16",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.236485,
+        "f1": 0.178939,
+        "f1_weighted": 0.216807,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.24323,
+            "f1": 0.18274,
+            "f1_weighted": 0.211456
+          },
+          {
+            "accuracy": 0.259462,
+            "f1": 0.208483,
+            "f1_weighted": 0.248347
+          },
+          {
+            "accuracy": 0.253365,
+            "f1": 0.181002,
+            "f1_weighted": 0.226483
+          },
+          {
+            "accuracy": 0.200238,
+            "f1": 0.149088,
+            "f1_weighted": 0.190538
+          },
+          {
+            "accuracy": 0.226128,
+            "f1": 0.173381,
+            "f1_weighted": 0.207212
+          }
+        ],
+        "main_score": 0.236485,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 6419.556368112564,
+  "kg_co2_emissions": null
+}

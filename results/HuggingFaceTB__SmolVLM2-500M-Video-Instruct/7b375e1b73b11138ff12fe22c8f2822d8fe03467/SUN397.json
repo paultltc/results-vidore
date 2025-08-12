@@ -1,0 +1,48 @@
+{
+  "dataset_revision": "7e6af6a2499ad708618be868e1471eac0aca1168",
+  "task_name": "SUN397",
+  "mteb_version": "1.38.16",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.46092,
+        "f1": 0.415174,
+        "f1_weighted": 0.458694,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.452506,
+            "f1": 0.40893,
+            "f1_weighted": 0.449891
+          },
+          {
+            "accuracy": 0.448506,
+            "f1": 0.40935,
+            "f1_weighted": 0.444369
+          },
+          {
+            "accuracy": 0.448736,
+            "f1": 0.409894,
+            "f1_weighted": 0.444523
+          },
+          {
+            "accuracy": 0.495632,
+            "f1": 0.431167,
+            "f1_weighted": 0.492322
+          },
+          {
+            "accuracy": 0.459218,
+            "f1": 0.416529,
+            "f1_weighted": 0.462368
+          }
+        ],
+        "main_score": 0.46092,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 18150.403843402863,
+  "kg_co2_emissions": null
+}

@@ -1,0 +1,48 @@
+{
+  "dataset_revision": "557b480fae8d69247be74d9503b378a09425096f",
+  "task_name": "OxfordPets",
+  "mteb_version": "1.38.16",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.0858,
+        "f1": 0.06758,
+        "f1_weighted": 0.067315,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.087217,
+            "f1": 0.067208,
+            "f1_weighted": 0.066956
+          },
+          {
+            "accuracy": 0.098392,
+            "f1": 0.078214,
+            "f1_weighted": 0.078176
+          },
+          {
+            "accuracy": 0.081494,
+            "f1": 0.066012,
+            "f1_weighted": 0.065504
+          },
+          {
+            "accuracy": 0.078496,
+            "f1": 0.064168,
+            "f1_weighted": 0.063728
+          },
+          {
+            "accuracy": 0.083401,
+            "f1": 0.062296,
+            "f1_weighted": 0.062208
+          }
+        ],
+        "main_score": 0.0858,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 2157.028300046921,
+  "kg_co2_emissions": null
+}

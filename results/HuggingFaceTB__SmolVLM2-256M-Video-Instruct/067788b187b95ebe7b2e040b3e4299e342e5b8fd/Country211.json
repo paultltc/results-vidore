@@ -1,0 +1,48 @@
+{
+  "dataset_revision": "1699f138f0558342a1cbf99f7cf36b4361bb5ebc",
+  "task_name": "Country211",
+  "mteb_version": "1.38.16",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.032701,
+        "f1": 0.01471,
+        "f1_weighted": 0.01471,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.031517,
+            "f1": 0.013824,
+            "f1_weighted": 0.013824
+          },
+          {
+            "accuracy": 0.034645,
+            "f1": 0.015509,
+            "f1_weighted": 0.015509
+          },
+          {
+            "accuracy": 0.032085,
+            "f1": 0.01498,
+            "f1_weighted": 0.01498
+          },
+          {
+            "accuracy": 0.033507,
+            "f1": 0.01496,
+            "f1_weighted": 0.01496
+          },
+          {
+            "accuracy": 0.031754,
+            "f1": 0.014278,
+            "f1_weighted": 0.014278
+          }
+        ],
+        "main_score": 0.032701,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 11810.4541015625,
+  "kg_co2_emissions": null
+}

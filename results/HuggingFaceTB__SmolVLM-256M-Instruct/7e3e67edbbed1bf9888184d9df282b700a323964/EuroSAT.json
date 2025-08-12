@@ -1,0 +1,48 @@
+{
+  "dataset_revision": "b4e28552cd5f3932b6abc37eb20d3e84901ad728",
+  "task_name": "EuroSAT",
+  "mteb_version": "1.38.16",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.567889,
+        "f1": 0.51363,
+        "f1_weighted": 0.530669,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.567778,
+            "f1": 0.52449,
+            "f1_weighted": 0.538826
+          },
+          {
+            "accuracy": 0.574259,
+            "f1": 0.519614,
+            "f1_weighted": 0.537764
+          },
+          {
+            "accuracy": 0.586481,
+            "f1": 0.532755,
+            "f1_weighted": 0.550999
+          },
+          {
+            "accuracy": 0.553889,
+            "f1": 0.495947,
+            "f1_weighted": 0.514308
+          },
+          {
+            "accuracy": 0.557037,
+            "f1": 0.495346,
+            "f1_weighted": 0.511448
+          }
+        ],
+        "main_score": 0.567889,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 2251.0885050296783,
+  "kg_co2_emissions": null
+}

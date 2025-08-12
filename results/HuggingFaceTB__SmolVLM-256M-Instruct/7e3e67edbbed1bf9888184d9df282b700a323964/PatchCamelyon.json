@@ -1,0 +1,60 @@
+{
+  "dataset_revision": "502695fe1a141108650e3c5b91c8b5e0ff84ed49",
+  "task_name": "PatchCamelyon",
+  "mteb_version": "1.38.16",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.604346,
+        "f1": 0.599465,
+        "f1_weighted": 0.599449,
+        "ap": 0.561212,
+        "ap_weighted": 0.561212,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.599487,
+            "f1": 0.592181,
+            "f1_weighted": 0.592158,
+            "ap": 0.557376,
+            "ap_weighted": 0.557376
+          },
+          {
+            "accuracy": 0.593384,
+            "f1": 0.588604,
+            "f1_weighted": 0.588585,
+            "ap": 0.553683,
+            "ap_weighted": 0.553683
+          },
+          {
+            "accuracy": 0.621399,
+            "f1": 0.616298,
+            "f1_weighted": 0.616279,
+            "ap": 0.572497,
+            "ap_weighted": 0.572497
+          },
+          {
+            "accuracy": 0.591339,
+            "f1": 0.591279,
+            "f1_weighted": 0.591281,
+            "ap": 0.554002,
+            "ap_weighted": 0.554002
+          },
+          {
+            "accuracy": 0.616119,
+            "f1": 0.608963,
+            "f1_weighted": 0.60894,
+            "ap": 0.568499,
+            "ap_weighted": 0.568499
+          }
+        ],
+        "main_score": 0.604346,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 11865.801671028137,
+  "kg_co2_emissions": null
+}
