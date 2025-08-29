@@ -1,0 +1,19 @@
+{
+  "dataset_revision": "011e51e5fb01f0c820824734edb7a539ab8e6650",
+  "task_name": "Caltech101ZeroShot",
+  "mteb_version": "1.38.34",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.840894,
+        "main_score": 0.840894,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 214.38899278640747,
+  "kg_co2_emissions": null
+}

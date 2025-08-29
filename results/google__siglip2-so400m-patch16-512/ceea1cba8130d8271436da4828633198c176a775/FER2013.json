@@ -1,0 +1,48 @@
+{
+  "dataset_revision": "9399b94167523fe5c40b3a857e24ef931ee4395b",
+  "task_name": "FER2013",
+  "mteb_version": "1.38.34",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.466592,
+        "f1": 0.42198,
+        "f1_weighted": 0.481562,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.469072,
+            "f1": 0.414876,
+            "f1_weighted": 0.478541
+          },
+          {
+            "accuracy": 0.456673,
+            "f1": 0.418794,
+            "f1_weighted": 0.477183
+          },
+          {
+            "accuracy": 0.476456,
+            "f1": 0.433792,
+            "f1_weighted": 0.488024
+          },
+          {
+            "accuracy": 0.492059,
+            "f1": 0.436991,
+            "f1_weighted": 0.496556
+          },
+          {
+            "accuracy": 0.438702,
+            "f1": 0.40545,
+            "f1_weighted": 0.467507
+          }
+        ],
+        "main_score": 0.466592,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 275.9013147354126,
+  "kg_co2_emissions": null
+}

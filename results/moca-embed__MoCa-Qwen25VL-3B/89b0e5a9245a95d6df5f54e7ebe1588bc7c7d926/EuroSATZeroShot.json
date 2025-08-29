@@ -1,0 +1,19 @@
+{
+  "dataset_revision": "b4e28552cd5f3932b6abc37eb20d3e84901ad728",
+  "task_name": "EuroSATZeroShot",
+  "mteb_version": "1.38.34",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.273519,
+        "main_score": 0.273519,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 72.99886989593506,
+  "kg_co2_emissions": null
+}

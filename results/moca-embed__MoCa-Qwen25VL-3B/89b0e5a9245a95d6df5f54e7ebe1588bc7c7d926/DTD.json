@@ -1,0 +1,48 @@
+{
+  "dataset_revision": "d2afa97d9f335b1a6b3b09c637aef667f98f966e",
+  "task_name": "DTD",
+  "mteb_version": "1.38.34",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.725532,
+        "f1": 0.724934,
+        "f1_weighted": 0.724934,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.72766,
+            "f1": 0.727327,
+            "f1_weighted": 0.727327
+          },
+          {
+            "accuracy": 0.729787,
+            "f1": 0.728516,
+            "f1_weighted": 0.728516
+          },
+          {
+            "accuracy": 0.731915,
+            "f1": 0.731457,
+            "f1_weighted": 0.731457
+          },
+          {
+            "accuracy": 0.720745,
+            "f1": 0.72131,
+            "f1_weighted": 0.72131
+          },
+          {
+            "accuracy": 0.717553,
+            "f1": 0.716061,
+            "f1_weighted": 0.716061
+          }
+        ],
+        "main_score": 0.725532,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 208.63440108299255,
+  "kg_co2_emissions": null
+}
